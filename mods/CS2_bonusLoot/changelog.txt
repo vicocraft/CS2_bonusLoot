@@ -1,0 +1,17 @@
+CHANGELOG:
+1.6_1.0
+	- Initial Release.
+
+1.6_2.0
+	- Enabled config file.
+
+1.7_1.0
+	- Updated to 1.7 version;
+	- Added 1.7 saplings;
+	- Changelog a bit revamped.
+
+1.7_2.0
+	- Splited ComputerCraft loot in 'bonuslootcc';
+
+1.7_2.0
+	- Added Maps;
